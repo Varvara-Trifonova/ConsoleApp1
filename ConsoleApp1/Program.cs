@@ -18,7 +18,7 @@ namespace Task_1
             Console.ForegroundColor = ConsoleColor.Yellow;
             Console.WriteLine("Rapidly, merrily,");
             Console.WriteLine("Life’s sunny hours flit by,");
-            Console.WriteLine("Gratefully, cheerily,");
+            Console.WriteLine("Gratefully, cheerily, ha");
             Console.WriteLine("Enjoy them as they fly!");
 
             Console.ResetColor();
